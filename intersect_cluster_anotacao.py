@@ -2,8 +2,8 @@ import re
 from extract_seq import procurar_seq
 
 anotacao = open('anotacao_ayupi.txt', 'r').read().split('Geneid_NOV_2012_revised_ABR_2013')[1]
-cluster_file = open('Projeto/Pearson_backup.txt', 'r').read()
-saida = open('Pearson.txt_com_seq.txt', 'w')
+cluster_file = open('Projeto/Pearson.txt', 'r').read()
+saida = open('Pearson.txt_com_seq_merda.txt', 'w')
 for linha in cluster_file.split('\n'):
     #print linha.split(';')[0]
     for x in anotacao.split('\n'):
