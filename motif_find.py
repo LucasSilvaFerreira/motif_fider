@@ -115,14 +115,14 @@ class motif_finder:
 		tamanho_seq=len(sequencia_string)
 		tss=((tamanho_seq*self.pontas)/100)
 		three_end= tamanho_seq-tss
-		print tss,three_end
+		#print tss,three_end
 		count_erro=0
 		nome_contador=0
 		saida_hmm=[]
 		classificar=[]
 		motif_Contador =1
 		for procura in lista_motivos:
-			print  ("---------------->"  + str(motif_Contador) + "<---------------------------------------")
+			#print  ("---------------->"  + str(motif_Contador) + "<---------------------------------------")
 			#print (procura)
 			motif_Contador += 1
 			#for position_s,score_p in procura.search_pwm(sequencia,threshold=1):

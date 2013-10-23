@@ -2,9 +2,9 @@ import simplehmm
 import math
 
 from motif_find import motif_finder
-teste= motif_finder('/home/lucas/lucas/motif_fider/PFMDir_original/')
+teste= motif_finder('PFMDir_original/')
 teste.set_pontas_porcentagem(15)
-lncrna_train=open('lnc_maiores_6k_menosres_11_complementar.txt','r').read()
+lncrna_train=open('lncrna_random_100.csv','r').read()
 
 treinar=[]
 finalizando=0 
@@ -19,14 +19,15 @@ for lncRNA in lncrna_train.split('\n'):
       classificado_testar=sorted(classificar)
       
       for pegar_nomes in classificado_testar:
-                  print pegar_nomes[1]
+                  #print pegar_nomes[1]
                   teste_vetor.append(pegar_nomes[1])
       #print finalizando
       finalizando +=1
       #print classificado_testar
       print train
-      classificar_vetor.append(teste_vetor)
-      treinar.append(train)
+      if len(train)>1:
+        classificar_vetor.append(teste_vetor)
+        treinar.append(train)
       
 print classificar_vetor 
 print(teste.get_dir())
@@ -67,11 +68,14 @@ mrna_hmm.print_hmm()  # Print it out
 
 
 for teste in classificar_vetor:
-      #print 'lnc',lnc_hmm.viterbi(teste)
-      #print 'mrna',mrna_hmm.viterbi(teste)
-      print math.log(lnc_hmm.viterbi(teste)[1]/mrna_hmm.viterbi(teste)[1])
-     #pass 
-      
-      
+    try:
+        #print 'lnc',lnc_hmm.viterbi(teste)
+        #print 'mrna',mrna_hmm.viterbi(teste)
+        print math.log(lnc_hmm.viterbi(teste)[1]/mrna_hmm.viterbi(teste)[1])
+        #pass
+    except:
+        print 'propability zero'
+        print lnc_hmm.viterbi(teste)[1],mrna_hmm.viterbi(teste)[1]
+
 
 
