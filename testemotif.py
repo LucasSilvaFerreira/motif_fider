@@ -1,6 +1,5 @@
 import simplehmm
 import math
-
 from motif_find import motif_finder
 teste= motif_finder('PFMDir_original/')
 teste.set_pontas_porcentagem(15)
