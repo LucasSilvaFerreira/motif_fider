@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Pearson.txt_com_seq_merda)backup.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setubal/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/100_mrna_maiores_6k_menores_11k.txt" afterPath="$PROJECT_DIR$/setubal/100_mrna_maiores_6k_menores_11k.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/15_lncrna.hmm" afterPath="$PROJECT_DIR$/setubal/15_lncrna.hmm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/15_mrna.hmm" afterPath="$PROJECT_DIR$/setubal/15_mrna.hmm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HMMs_Testes.py" afterPath="$PROJECT_DIR$/setubal/HMMs_Testes.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/carregar_hmm.py" afterPath="$PROJECT_DIR$/setubal/carregar_hmm.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/hmm_treinamento_lnc_sem_sorter_threshold.hmm" afterPath="$PROJECT_DIR$/setubal/hmm_treinamento_lnc_sem_sorter_threshold.hmm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncRNA.fa" afterPath="$PROJECT_DIR$/setubal/lncRNA.fa" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncRNA.txt" afterPath="$PROJECT_DIR$/setubal/lncRNA.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncRNA_query.txt" afterPath="$PROJECT_DIR$/setubal/lncRNA_query.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lnc_maiores_6k_menosres_11_complementar.txt" afterPath="$PROJECT_DIR$/setubal/lnc_maiores_6k_menosres_11_complementar.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncipedia.fasta.txt" afterPath="$PROJECT_DIR$/setubal/lncipedia.fasta.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncrnaTRAIN.hmm" afterPath="$PROJECT_DIR$/setubal/lncrnaTRAIN.hmm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncrna_fasta_processado.txt" afterPath="$PROJECT_DIR$/setubal/lncrna_fasta_processado.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lncrna_random_100.csv" afterPath="$PROJECT_DIR$/setubal/lncrna_random_100.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mRNAsTRAIN_threshold.hmm" afterPath="$PROJECT_DIR$/setubal/mRNAsTRAIN_threshold.hmm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/query_random_100_mRNA.txt" afterPath="$PROJECT_DIR$/setubal/query_random_100_mRNA.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/random_100_mRNA.csv" afterPath="$PROJECT_DIR$/setubal/random_100_mRNA.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/randomseq.hmm" afterPath="$PROJECT_DIR$/setubal/randomseq.hmm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/randomseq.txt" afterPath="$PROJECT_DIR$/setubal/randomseq.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/treinamento_lnc_semsorter.txt" afterPath="$PROJECT_DIR$/setubal/treinamento_lnc_semsorter.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/motif_fider.iml" afterPath="$PROJECT_DIR$/.idea/motif_fider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testemotif.py" afterPath="$PROJECT_DIR$/testemotif.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motif_fider.iws" />
@@ -26,67 +49,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="fujita_motif.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fujita_motif.py">
+      <file leaf-file-name="testemotif.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testemotif.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.5672727" vertical-offset="793" max-vertical-offset="1343">
+            <state line="20" column="12" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47936085" vertical-offset="0" max-vertical-offset="1548">
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pydevd.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="18109" max-vertical-offset="25024">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="processando.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/processando.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="459">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my.groups_hr_ids.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/my.groups_hr_ids.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39049">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_Motif.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="179" column="0" selection-start="6158" selection-end="6158" vertical-scroll-proportion="0.0" vertical-offset="2842" max-vertical-offset="13889">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adiciona_sequencia_metrica.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sequencias_out_my.groups_hr_ids.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="-2.58" vertical-offset="5498" max-vertical-offset="142443">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -117,7 +86,6 @@
         <option value="$PROJECT_DIR$/Projeto/arranjas_seqs.py" />
         <option value="D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py" />
         <option value="$PROJECT_DIR$/motif_find.py" />
-        <option value="$PROJECT_DIR$/testemotif.py" />
         <option value="$PROJECT_DIR$/Projeto/sequencias_encontradas.txt" />
         <option value="$PROJECT_DIR$/Projeto/adiciona_sequencia_metrica.py" />
         <option value="$PROJECT_DIR$/Projeto/out_Pearson.txt" />
@@ -126,14 +94,15 @@
         <option value="$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt" />
         <option value="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt" />
         <option value="$PROJECT_DIR$/fujita_motif.py" />
+        <option value="$PROJECT_DIR$/testemotif.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="64" />
+    <option name="y" value="-4" />
+    <option name="width" value="1377" />
+    <option name="height" value="905" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -180,7 +149,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,18 +169,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="File.Encoding" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -226,6 +195,7 @@
       <recent name="$PROJECT_DIR$/Projeto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/setubal" />
       <recent name="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\processar_clusters" />
     </key>
   </component>
@@ -590,24 +560,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="64" y="-4" width="1377" height="905" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895833" sideWeight="0.6233766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24872728" sideWeight="0.6233766" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.482684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37662336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37564102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14285715" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -638,7 +608,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HMMs_Testes.py">
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="0.0" vertical-offset="5958" max-vertical-offset="150822">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setubal/HMMs_Testes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336" />
       </provider>
@@ -655,22 +639,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="452" />
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="0" selection-start="6416" selection-end="6416" vertical-scroll-proportion="0.3318584" vertical-offset="2077" max-vertical-offset="5610">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testemotif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="39" selection-start="279" selection-end="279" vertical-scroll-proportion="0.25663716" vertical-offset="54" max-vertical-offset="1462">
-          <folding>
-            <element signature="e#0#16#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/motif_find.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="135" column="0" selection-start="3583" selection-end="3583" vertical-scroll-proportion="4.8893805" vertical-offset="0" max-vertical-offset="2771">
@@ -680,14 +648,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="600" selection-end="601" vertical-scroll-proportion="0.033203125" vertical-offset="0" max-vertical-offset="142460">
-          <folding />
-        </state>
+        <state line="1" column="12" selection-start="600" selection-end="601" vertical-scroll-proportion="0.033203125" vertical-offset="0" max-vertical-offset="142460" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/out_Pearson.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8367" column="524" selection-start="9219847" selection-end="9219847" vertical-scroll-proportion="157.40097" vertical-offset="77075" max-vertical-offset="142443">
+        <state line="8367" column="524" selection-start="9219847" selection-end="9219847" vertical-scroll-proportion="157.40097" vertical-offset="77075" max-vertical-offset="142443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="0.81454545" vertical-offset="173751" max-vertical-offset="174301" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujita_motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.6863824" vertical-offset="671" max-vertical-offset="1422">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="-1.6097561" vertical-offset="20556" max-vertical-offset="26496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/processando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="0.1677763" vertical-offset="0" max-vertical-offset="751">
           <folding />
         </state>
       </provider>
@@ -699,51 +689,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="179" column="0" selection-start="6158" selection-end="6158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13889">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="0.81454545" vertical-offset="173751" max-vertical-offset="174301">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/processando.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="459">
+        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.3355526" vertical-offset="0" max-vertical-offset="751">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="-2.58" vertical-offset="5498" max-vertical-offset="142443">
+        <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="0.0" vertical-offset="5958" max-vertical-offset="150822">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+    <entry file="file://$PROJECT_DIR$/testemotif.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="18109" max-vertical-offset="25024">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fujita_motif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.5672727" vertical-offset="793" max-vertical-offset="1343">
+        <state line="20" column="12" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47936085" vertical-offset="0" max-vertical-offset="1548">
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>

@@ -3,7 +3,7 @@ import math
 from motif_find import motif_finder
 teste= motif_finder('PFMDir_original/')
 teste.set_pontas_porcentagem(15)
-lncrna_train=open('lncrna_random_100.csv','r').read()
+lncrna_train=open('setubal/lncrna_random_100.csv','r').read()
 
 treinar=[]
 finalizando=0 
@@ -55,14 +55,14 @@ print '---------------------',treinar,'---------------------------------'
 test_hmm.train(treinar, smoothing='absdiscount')
 #print test_hmm.check_prob()
 #print test_hmm.print_hmm()
-#test_hmm.save_hmm("15_lncrna.hmm")
+#test_hmm.save_hmm("setubal/15_lncrna.hmm")
 
 lnc_hmm = simplehmm.hmm('LncRNA',  ['dummy'], ['dummy'])
-lnc_hmm.load_hmm('15_lncrna.hmm')
+lnc_hmm.load_hmm('setubal/15_lncrna.hmm')
 lnc_hmm.print_hmm()  # Print it out
 
 mrna_hmm = simplehmm.hmm('mRNA',  ['dummy'], ['dummy'])
-mrna_hmm.load_hmm('15_mrna.hmm')
+mrna_hmm.load_hmm('setubal/15_mrna.hmm')
 mrna_hmm.print_hmm()  # Print it out
 
 
