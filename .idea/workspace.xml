@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/motif_fider.iml" afterPath="$PROJECT_DIR$/.idea/motif_fider.iml" />
+    <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="fujita motif find add">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/my.groups_hr_ids.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/out_out_sequencias_my.groups_hr_ids.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/processando.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt" />
+      <change type="DELETED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Copy of motif_find.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fujita_motif.py" afterPath="$PROJECT_DIR$/fujita_motif.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\adiciona_sequencia_metrica.py" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py" />
+      <change type="MOVED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\sequencias_encontradas.txt" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt" />
     </list>
     <ignored path="motif_fider.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,19 +36,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arranjas_seqs.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs.py">
+      <file leaf-file-name="fujita_motif.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fujita_motif.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="12" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="72" column="23" selection-start="2423" selection-end="2423" vertical-scroll-proportion="0.7836364" vertical-offset="793" max-vertical-offset="1343">
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pydevd.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="18109" max-vertical-offset="25024">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="teste.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/teste_casa/teste.txt">
+      <file leaf-file-name="processando.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/processando.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898">
+            <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my.groups_hr_ids.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/my.groups_hr_ids.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="4" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39049">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Motif.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="179" column="0" selection-start="6158" selection-end="6158" vertical-scroll-proportion="0.0" vertical-offset="2842" max-vertical-offset="13889">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adiciona_sequencia_metrica.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sequencias_out_my.groups_hr_ids.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="-2.58" vertical-offset="5498" max-vertical-offset="142443">
               <folding />
             </state>
           </provider>
@@ -53,6 +109,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
@@ -63,12 +120,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/extract_seq.py" />
         <option value="$PROJECT_DIR$/Pearson.txt_com_seq.txt" />
         <option value="$PROJECT_DIR$/Projeto/Pearson.txt" />
         <option value="$PROJECT_DIR$/Projeto/Pearson_backup.txt" />
         <option value="$PROJECT_DIR$/intersect_cluster_anotacao.py" />
         <option value="$PROJECT_DIR$/Projeto/arranjas_seqs.py" />
+        <option value="D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py" />
+        <option value="$PROJECT_DIR$/motif_find.py" />
+        <option value="$PROJECT_DIR$/testemotif.py" />
+        <option value="$PROJECT_DIR$/Projeto/sequencias_encontradas.txt" />
+        <option value="$PROJECT_DIR$/Projeto/adiciona_sequencia_metrica.py" />
+        <option value="$PROJECT_DIR$/Projeto/out_Pearson.txt" />
+        <option value="$PROJECT_DIR$/Projeto/processar_clusters/processando.py" />
+        <option value="$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py" />
+        <option value="$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt" />
+        <option value="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt" />
+        <option value="$PROJECT_DIR$/fujita_motif.py" />
       </list>
     </option>
   </component>
@@ -123,6 +190,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,33 +209,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teste_casa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="File.Encoding" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -176,51 +231,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\lucas Ferreira\PycharmProjects\motif_fider" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Projeto" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\processar_clusters" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.arranjas_seqs">
-    <configuration default="false" name="extract_seq" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="motif_fider" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_seq.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="intersect_cluster_anotacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="motif_fider" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intersect_cluster_anotacao.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.fujita_motif">
     <configuration default="false" name="arranjas_seqs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,6 +253,82 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="motif_fider" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto/arranjas_seqs.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="adiciona_sequencia_metrica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\processar_clusters\adiciona_sequencia_metrica.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fujita_motif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fujita_motif.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="processando" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto/processar_clusters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto/processar_clusters/processando.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="adiciona_sequencia_metrica (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto/processar_clusters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -360,16 +455,62 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.extract_seq" />
-      <item index="1" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao" />
+    <configuration default="false" name="testemotif" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testemotif.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="extract_seq" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_seq.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.testemotif" />
+      <item index="1" class="java.lang.String" itemvalue="Python.extract_seq" />
       <item index="2" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.adiciona_sequencia_metrica" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fujita_motif" />
+      <item index="5" class="java.lang.String" itemvalue="Python.processando" />
+      <item index="6" class="java.lang.String" itemvalue="Python.adiciona_sequencia_metrica (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.extract_seq" />
-        <item index="2" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.fujita_motif" />
+        <item index="1" class="java.lang.String" itemvalue="Python.adiciona_sequencia_metrica (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.processando" />
+        <item index="3" class="java.lang.String" itemvalue="Python.adiciona_sequencia_metrica" />
+        <item index="4" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +560,31 @@
       <created>1382489544824</created>
       <updated>1382489544824</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="teste em casa">
+      <created>1382489601142</created>
+      <updated>1382489601142</updated>
+    </task>
+    <task id="LOCAL-00007" summary="teste em casa">
+      <created>1382560793156</created>
+      <updated>1382560793156</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fujita motif find add">
+      <created>1382568592846</created>
+      <updated>1382568592846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fujita motif find add">
+      <created>1382568648577</created>
+      <updated>1382568648577</updated>
+    </task>
+    <task id="LOCAL-00010" summary="out_pearson adicionado">
+      <created>1382571907144</created>
+      <updated>1382571907144</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adiciona_sequencia add">
+      <created>1382571959363</created>
+      <updated>1382571959363</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -431,16 +596,16 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895833" sideWeight="0.6230769" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4897436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24895833" sideWeight="0.6233766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.482684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37662336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37662336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14285715" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -455,103 +620,129 @@
     </option>
     <MESSAGE value="push?" />
     <MESSAGE value="teste em casa" />
-    <option name="LAST_COMMIT_MESSAGE" value="teste em casa" />
+    <MESSAGE value="fujita motif find add" />
+    <MESSAGE value="out_pearson adicionado" />
+    <MESSAGE value="adiciona_sequencia add" />
+    <option name="LAST_COMMIT_MESSAGE" value="adiciona_sequencia add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs.py">
+    <entry file="file://$PROJECT_DIR$/HMMs_Testes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="12" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/Pearson.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7013" column="12" selection-start="1603398" selection-end="1603410" vertical-scroll-proportion="0.0" vertical-offset="119221" max-vertical-offset="174301">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/anotacao_ayupi.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11044" column="122" selection-start="2882284" selection-end="2882284" vertical-scroll-proportion="0.0" vertical-offset="216363" max-vertical-offset="417852" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extrair_fasta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="60" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="378" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extrair_fasta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/Pearson_backup.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="12" selection-start="43995" selection-end="44007" vertical-scroll-proportion="0.0" vertical-offset="3222" max-vertical-offset="3636" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extract_seq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="824" selection-end="824" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="828" />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="19264" max-vertical-offset="26496">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pearson.txt_com_seq.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="57" selection-start="57" selection-end="57" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/anotacao_ayupi.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11044" column="122" selection-start="2882284" selection-end="2882284" vertical-scroll-proportion="-42.33976" vertical-offset="216363" max-vertical-offset="417852" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pearson.txt_com_seq_merda)backup.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="49" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="415" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intersect_cluster_anotacao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="12" selection-start="366" selection-end="366" vertical-scroll-proportion="0.3178808" vertical-offset="0" max-vertical-offset="558" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/sequencias_encontradas.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.5614458" vertical-offset="648" max-vertical-offset="150840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/Pearson.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7025" column="47" selection-start="1606109" selection-end="1606109" vertical-scroll-proportion="-6.684746" vertical-offset="125341" max-vertical-offset="174301">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="12" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+        <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.028619528" vertical-offset="0" max-vertical-offset="594">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/teste_casa/teste.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="452" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="6416" selection-end="6416" vertical-scroll-proportion="0.3318584" vertical-offset="2077" max-vertical-offset="5610">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testemotif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="39" selection-start="279" selection-end="279" vertical-scroll-proportion="0.25663716" vertical-offset="54" max-vertical-offset="1462">
+          <folding>
+            <element signature="e#0#16#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motif_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="0" selection-start="3583" selection-end="3583" vertical-scroll-proportion="4.8893805" vertical-offset="0" max-vertical-offset="2771">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="600" selection-end="601" vertical-scroll-proportion="0.033203125" vertical-offset="0" max-vertical-offset="142460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/out_Pearson.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8367" column="524" selection-start="9219847" selection-end="9219847" vertical-scroll-proportion="157.40097" vertical-offset="77075" max-vertical-offset="142443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39049">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="6158" selection-end="6158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="0.81454545" vertical-offset="173751" max-vertical-offset="174301">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/processando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="-2.58" vertical-offset="5498" max-vertical-offset="142443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.0" vertical-offset="18109" max-vertical-offset="25024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fujita_motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="23" selection-start="2423" selection-end="2423" vertical-scroll-proportion="0.7836364" vertical-offset="793" max-vertical-offset="1343">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
