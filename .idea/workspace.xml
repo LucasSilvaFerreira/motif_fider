@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Pearson.txt_com_seq_merda)backup.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motif_fider.iws" />
@@ -28,7 +29,7 @@
       <file leaf-file-name="fujita_motif.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fujita_motif.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="23" selection-start="2423" selection-end="2423" vertical-scroll-proportion="0.7836364" vertical-offset="793" max-vertical-offset="1343">
+            <state line="65" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.5672727" vertical-offset="793" max-vertical-offset="1343">
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -577,7 +578,15 @@
       <created>1382582170479</created>
       <updated>1382582170479</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Primeira execução modificaçãoes">
+      <created>1382582185290</created>
+      <updated>1382582185290</updated>
+    </task>
+    <task id="LOCAL-00014" summary="PIPELINE EXECUTADO">
+      <created>1382602719444</created>
+      <updated>1382602719444</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -617,7 +626,8 @@
     <MESSAGE value="out_pearson adicionado" />
     <MESSAGE value="adiciona_sequencia add" />
     <MESSAGE value="Primeira execução modificaçãoes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeira execução modificaçãoes" />
+    <MESSAGE value="PIPELINE EXECUTADO" />
+    <option name="LAST_COMMIT_MESSAGE" value="PIPELINE EXECUTADO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -733,7 +743,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fujita_motif.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="23" selection-start="2423" selection-end="2423" vertical-scroll-proportion="0.7836364" vertical-offset="793" max-vertical-offset="1343">
+        <state line="65" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.5672727" vertical-offset="793" max-vertical-offset="1343">
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
