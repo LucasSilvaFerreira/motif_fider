@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="fujita motif find add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/my.groups_hr_ids.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/out_out_sequencias_my.groups_hr_ids.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/processando.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt" />
-      <change type="DELETED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Copy of motif_find.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fujita_motif.py" afterPath="$PROJECT_DIR$/fujita_motif.py" />
+    <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\adiciona_sequencia_metrica.py" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py" />
-      <change type="MOVED" beforePath="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\sequencias_encontradas.txt" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt" />
     </list>
     <ignored path="motif_fider.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -584,7 +573,11 @@
       <created>1382571959363</created>
       <updated>1382571959363</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Primeira execução modificaçãoes">
+      <created>1382582170479</created>
+      <updated>1382582170479</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -623,7 +616,8 @@
     <MESSAGE value="fujita motif find add" />
     <MESSAGE value="out_pearson adicionado" />
     <MESSAGE value="adiciona_sequencia add" />
-    <option name="LAST_COMMIT_MESSAGE" value="adiciona_sequencia add" />
+    <MESSAGE value="Primeira execução modificaçãoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeira execução modificaçãoes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
