@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.lncrtrain.csv#" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.lncrtrain.txt#" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motif_fider.iws" />
@@ -538,7 +536,11 @@
       <created>1382618361913</created>
       <updated>1382618361913</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Organização projeto setubal e fujita ver 2">
+      <created>1382618501375</created>
+      <updated>1382618501375</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -580,7 +582,8 @@
     <MESSAGE value="Primeira execução modificaçãoes" />
     <MESSAGE value="PIPELINE EXECUTADO" />
     <MESSAGE value="Organização projeto setubal e fujita" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organização projeto setubal e fujita" />
+    <MESSAGE value="Organização projeto setubal e fujita ver 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organização projeto setubal e fujita ver 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
