@@ -1,6 +1,0 @@
-import math
-import simplehmm
-lnc_hmm = simplehmm.hmm('LncRNA',  ['dummy'], ['dummy'])
-lnc_hmm.load_hmm('hmm_treinamento_lnc_sem_sorter_threshold.hmm')
-lnc_hmm.print_hmm()  # Print it out
-print math.log(10)
