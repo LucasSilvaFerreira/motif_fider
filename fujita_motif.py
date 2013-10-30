@@ -72,4 +72,4 @@ for loop_cluster in range(1,numero_clusters):
     print test_hmm.print_hmm()
     if nome_saida =='':
         print ('De um nome para os arquivos de saida')
-    test_hmm.save_hmm('resultados/'+str(loop_cluster)+"_cluster.hmm")
+    test_hmm.save_hmm('resultados/'+nome_saida+'_'+str(loop_cluster)+"_cluster.hmm")
