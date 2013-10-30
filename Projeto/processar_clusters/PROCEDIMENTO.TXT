@@ -1,3 +1,7 @@
 procedimento para rodar as analises
 
-entrar com os dados contendo gene\t grupo no script 
+1)Entrar com os dados contendo gene\t grupo no script " adiciona_sequencia_metrica.py" 
+(o nome gerado será sequencias+nome do arquivo de entrada)
+2)rodar o script localizado em motif_fider/fujita_motif.py ajustando a entrada para :
+dados = open('INSERIR CAMINHO DO ARQUIVO QUE SAIU DO adiciona_sequencia_metrica.py', 'r').read()
+OBS: MUDE SEMPRE O NOME DOS ARQUIVOS  variavel-> 'nome_saida='
