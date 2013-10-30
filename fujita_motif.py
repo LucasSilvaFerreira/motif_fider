@@ -1,7 +1,7 @@
 import simplehmm
 import math
 from motif_find import motif_finder
-
+nome_saida='nova_analise'
 teste = motif_finder('PFMDir_original/')
 teste.set_pontas_porcentagem(15)
 dados = open('Projeto\processar_clusters\sequencias_out_my.groups_hr_ids.txt', 'r').read()
@@ -70,4 +70,6 @@ for loop_cluster in range(1,numero_clusters):
     test_hmm.train(treinar, smoothing='absdiscount')
     #print test_hmm.check_prob()
     print test_hmm.print_hmm()
+    if nome_saida =='':
+        print ('De um nome para os arquivos de saida')
     test_hmm.save_hmm('resultados/'+str(loop_cluster)+"_cluster.hmm")
