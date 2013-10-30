@@ -1,0 +1,3 @@
+procedimento para rodar as analises
+
+entrar com os dados contendo gene\t grupo no script 
