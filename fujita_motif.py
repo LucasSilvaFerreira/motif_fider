@@ -1,25 +1,29 @@
 import simplehmm
 import math
 from motif_find import motif_finder
-nome_saida='nova_analise'
+nome_saida='analisando_half_life'
 teste = motif_finder('PFMDir_original/')
 teste.set_pontas_porcentagem(15)
-dados = open('Projeto\processar_clusters\sequencias_out_my.groups_hr_ids.txt', 'r').read()
+dados = open('Projeto/preparada_para_half_Life_busca.txt', 'r').read()
 vetor_maior_valor = []
 for search_maior_valor in dados.split('\n'):
     capturado = int(search_maior_valor.split(';')[2]) #numero de clusters
     vetor_maior_valor.append(capturado)
 
 print len(vetor_maior_valor),max(vetor_maior_valor)
-numero_clusters=max(vetor_maior_valor)
-for loop_cluster in range(1,numero_clusters):
-    print loop_cluster
+numero_clusters=max(vetor_maior_valor) #as classes devem ser numeros
+print numero_clusters
+for loop_cluster in range(0,numero_clusters+1):
+    #print loop_cluster
     mega_string_cluster=''
     for cluster in dados.split('\n'):
 
         if int(cluster.split(';')[2])==loop_cluster:
+            print loop_cluster,'-----------------------------------------------------'
             mega_string_cluster=mega_string_cluster+cluster.split(';')[1]+'\n'
+
     lncrna_train = mega_string_cluster
+    print lncrna_train
     treinar = []
     finalizando = 0
     classificar_vetor = []

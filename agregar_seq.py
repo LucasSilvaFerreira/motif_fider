@@ -1,6 +1,6 @@
 import re
 from extract_seq import procurar_seq
-arquivo=open('anotacao_ayupi.txt','r').read()
+arquivo=open('anotacao_ayupi.txt','r').read() #arquivo de anotacao grande gerado pela ayupi
 hash={}
 for linha in arquivo.split('\n'):
     #print linha

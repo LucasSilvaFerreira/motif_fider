@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
+    <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="Organização projeto setubal e fujita ver 2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/grupos_para_add_seq_half_life.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_maior 3h.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_menor 3h.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intersect_cluster_anotacao_para_apenas_um_grupo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/merge_menor_maior_3horas.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preparar_para_buscar_seqs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agregar_seq.py" afterPath="$PROJECT_DIR$/agregar_seq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projeto/arranjas_seqs.py" afterPath="$PROJECT_DIR$/Projeto/arranjas_seqs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fujita_motif.py" afterPath="$PROJECT_DIR$/fujita_motif.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/intersect_cluster_anotacao.py" afterPath="$PROJECT_DIR$/intersect_cluster_anotacao.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/motif_fider.iml" afterPath="$PROJECT_DIR$/.idea/motif_fider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt" afterPath="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motif_fider.iws" />
@@ -25,13 +38,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="testemotif.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="testemotif.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testemotif.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47936085" vertical-offset="0" max-vertical-offset="1548">
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
+            <state line="33" column="32" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1290">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fujita_motif.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fujita_motif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="45" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analisando_half_life_0_cluster.hmm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resultados/analisando_half_life_0_cluster.hmm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="162" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analisando_half_life_1_cluster.hmm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resultados/analisando_half_life_1_cluster.hmm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.65648854" vertical-offset="76" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="half_life_AS_maior 3h.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/half_life_AS_maior 3h.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="496" column="0" selection-start="154386" selection-end="154398" vertical-scroll-proportion="0.0" vertical-offset="6711" max-vertical-offset="7545">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preparada_para_half_Life_busca.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="401" column="1219" selection-start="411843" selection-end="411843" vertical-scroll-proportion="20.568628" vertical-offset="7064" max-vertical-offset="7560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sequencias_out_my.groups_hr_ids.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="347" column="0" selection-start="286097" selection-end="286257" vertical-scroll-proportion="-10.8" vertical-offset="4935" max-vertical-offset="125685">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extract_seq.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extract_seq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="59" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,6 +120,11 @@
   <component name="Git.Settings">
     <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="alterando_meia_vida" />
+      </map>
+    </option>
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -55,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Pearson.txt_com_seq.txt" />
-        <option value="$PROJECT_DIR$/Projeto/Pearson.txt" />
-        <option value="$PROJECT_DIR$/Projeto/Pearson_backup.txt" />
         <option value="$PROJECT_DIR$/intersect_cluster_anotacao.py" />
         <option value="$PROJECT_DIR$/Projeto/arranjas_seqs.py" />
         <option value="D:/Python27/Lib/site-packages/Bio/Motif/_Motif.py" />
@@ -69,16 +145,18 @@
         <option value="$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py" />
         <option value="$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt" />
         <option value="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt" />
-        <option value="$PROJECT_DIR$/fujita_motif.py" />
         <option value="$PROJECT_DIR$/testemotif.py" />
+        <option value="$PROJECT_DIR$/Projeto/grupos_para_add_seq_half_life.txt" />
+        <option value="$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt" />
+        <option value="$PROJECT_DIR$/resultados/analisando_half_life_0_cluster.hmm" />
+        <option value="$PROJECT_DIR$/fujita_motif.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="-4" />
-    <option name="width" value="1377" />
-    <option name="height" value="905" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -133,31 +211,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -544,28 +613,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1377" height="905" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="970" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24872728" sideWeight="0.6233766" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.482684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.672" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4822857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37564102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14285715" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.482684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14285715" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.6233766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37564102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -590,114 +679,131 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="19" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="396">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="0.0" vertical-offset="5958" max-vertical-offset="150822">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setubal/HMMs_Testes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="22" selection-end="22" vertical-scroll-proportion="0.028619528" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/teste_casa/teste.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="452" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/motif_find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="135" column="0" selection-start="3583" selection-end="3583" vertical-scroll-proportion="4.8893805" vertical-offset="0" max-vertical-offset="2771">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="600" selection-end="601" vertical-scroll-proportion="0.033203125" vertical-offset="0" max-vertical-offset="142460" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/out_Pearson.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8367" column="524" selection-start="9219847" selection-end="9219847" vertical-scroll-proportion="157.40097" vertical-offset="77075" max-vertical-offset="142443" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="0.81454545" vertical-offset="173751" max-vertical-offset="174301" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fujita_motif.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="0" selection-start="2142" selection-end="2142" vertical-scroll-proportion="0.6863824" vertical-offset="671" max-vertical-offset="1422">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="-1.6097561" vertical-offset="20556" max-vertical-offset="26496">
-          <folding />
-        </state>
+        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="-1.6097561" vertical-offset="20556" max-vertical-offset="26496" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/processando.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="0.1677763" vertical-offset="0" max-vertical-offset="751">
+        <state line="7" column="36" selection-start="199" selection-end="199" vertical-scroll-proportion="0.1677763" vertical-offset="0" max-vertical-offset="751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.3355526" vertical-offset="0" max-vertical-offset="751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testemotif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="32" selection-start="938" selection-end="938" vertical-scroll-proportion="0.0" vertical-offset="438" max-vertical-offset="1290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="59" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/grupos_para_add_seq_half_life.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="377" column="126" selection-start="396993" selection-end="396993" vertical-scroll-proportion="-9.764706" vertical-offset="5157" max-vertical-offset="7560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/half_life_AS_maior 3h.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="496" column="0" selection-start="154386" selection-end="154398" vertical-scroll-proportion="0.0" vertical-offset="6711" max-vertical-offset="7545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_out_sequencias_my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="824">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="1.4096835" vertical-offset="152948" max-vertical-offset="153795">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/my.groups_hr_ids.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="39049">
+        <state line="9" column="4" selection-start="452" selection-end="452" vertical-scroll-proportion="0.02793296" vertical-offset="120" max-vertical-offset="34455">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
+    <entry file="file://$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="92" selection-start="598" selection-end="598" vertical-scroll-proportion="0.3355526" vertical-offset="0" max-vertical-offset="751">
+        <state line="401" column="1219" selection-start="411843" selection-end="411843" vertical-scroll-proportion="20.568628" vertical-offset="7064" max-vertical-offset="7560">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="331" column="503" selection-start="273679" selection-end="273682" vertical-scroll-proportion="0.0" vertical-offset="5958" max-vertical-offset="150822">
+        <state line="347" column="0" selection-start="286097" selection-end="286257" vertical-scroll-proportion="-10.8" vertical-offset="4935" max-vertical-offset="125685">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testemotif.py">
+    <entry file="file:///Library/Python/2.7/site-packages/Bio/Motif/_Motif.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="572" selection-end="572" vertical-scroll-proportion="0.47936085" vertical-offset="0" max-vertical-offset="1548">
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state line="183" column="0" selection-start="6295" selection-end="6295" vertical-scroll-proportion="0.3317647" vertical-offset="2559" max-vertical-offset="12165">
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fujita_motif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/analisando_half_life_0_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="162" selection-start="983" selection-end="983" vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/analisando_half_life_1_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.65648854" vertical-offset="76" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
