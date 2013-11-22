@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="97e93569-b3fd-4404-93ed-9f5aef26a630" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Lucas.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pearson.txt_com_seq_merda_teste_2_tempos.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/analisando_half_life_0_cluster.hmm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/analisando_half_life_1_cluster.hmm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_3h__2_tempos.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_maior_3h_preparada.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_menor_3h__2_tempos.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/half_life_AS_menor_3h_preparada.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/sequencias_encontradas_half_life.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/half_life_AS_maior 3h.txt" afterPath="$PROJECT_DIR$/half_life_AS_maior 3h.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/half_life_AS_menor 3h.txt" afterPath="$PROJECT_DIR$/half_life_AS_menor 3h.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/merge_grupos_01_23_45_678_varios_grupos_analisando_half_life_0_cluster.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_4_cluster.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/arranjas_seqs_adicionar_grupo_meia_vida.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/backup_grupos_separacao_em_horas_sequencias_encontradas_half_life.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Projeto/grupos_separacao_em_horas_sequencias_encontradas_half_life.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/merge_grupos_01_23_45_678_varios_grupos_analisando_half_life_0_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/merge_grupos_01_23_45_678_varios_grupos_analisando_half_life_1_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/merge_grupos_01_23_45_678_varios_grupos_analisando_half_life_2_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/merge_grupos_01_23_45_678_varios_grupos_analisando_half_life_3_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_0_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_1_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_2_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_3_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_4_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_5_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_6_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_7_cluster.hmm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_8_cluster.hmm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resultados/analisando_half_life_0_cluster.hmm" afterPath="$PROJECT_DIR$/resultados/analisando_half_life_0_cluster.hmm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fujita_motif.py" afterPath="$PROJECT_DIR$/fujita_motif.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/motif_fider.iml" afterPath="$PROJECT_DIR$/.idea/motif_fider.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt" afterPath="$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motif_fider.iws" />
@@ -37,93 +48,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="intersect_cluster_anotacao_para_apenas_um_grupo.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intersect_cluster_anotacao_para_apenas_um_grupo.py">
+      <file leaf-file-name="matrix_list.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PFMDir_original/matrix_list.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="56" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+            <state line="59" column="42" selection-start="2840" selection-end="2841" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1258">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grupos_separacao_em_horas_sequencias_encontradas_half_life.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/grupos_separacao_em_horas_sequencias_encontradas_half_life.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="398" column="0" selection-start="408527" selection-end="408527" vertical-scroll-proportion="0.0" vertical-offset="5519" max-vertical-offset="8483">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fujita_motif.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fujita_motif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="44" selection-start="379" selection-end="379" vertical-scroll-proportion="0.11358575" vertical-offset="34" max-vertical-offset="1445">
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="merge_menor_maior_3horas.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/merge_menor_maior_3horas.txt">
+      <file leaf-file-name="backup_grupos_separacao_em_horas_sequencias_encontradas_half_life.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projeto/backup_grupos_separacao_em_horas_sequencias_encontradas_half_life.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="37" selection-start="9620" selection-end="9620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arranjas_seqs.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="5" selection-start="363" selection-end="363" vertical-scroll-proportion="-2.9411764" vertical-offset="0" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sequencias_encontradas_half_life.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/sequencias_encontradas_half_life.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="498" column="1" selection-start="503016" selection-end="503016" vertical-scroll-proportion="-96.17647" vertical-offset="2565" max-vertical-offset="7575">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grupos_para_add_seq_half_life.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/grupos_para_add_seq_half_life.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="336" selection-start="27708" selection-end="27708" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7560">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="half_life_AS_maior 3h.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/half_life_AS_maior 3h.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="496" column="0" selection-start="154386" selection-end="154398" vertical-scroll-proportion="0.7924901" vertical-offset="7039" max-vertical-offset="7545">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adiciona_sequencia_metrica.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="44" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="out_my.groups_hr_ids.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153795">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sequencias_encontradas.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="1441" selection-end="1442" vertical-scroll-proportion="-1.2" vertical-offset="0" max-vertical-offset="125685">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Spearman.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projeto/Spearman.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153810">
+            <state line="0" column="0" selection-start="0" selection-end="500695" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
               <folding />
             </state>
           </provider>
@@ -148,12 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_out_my.groups_hr_ids.txt" />
-        <option value="$PROJECT_DIR$/fujita_motif.py" />
-        <option value="$PROJECT_DIR$/testemotif.py" />
-        <option value="$PROJECT_DIR$/agregar_seq.py" />
-        <option value="$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt" />
-        <option value="$PROJECT_DIR$/intersect_cluster_anotacao.py" />
         <option value="$PROJECT_DIR$/half_life_AS_maior 3h.txt" />
         <option value="$PROJECT_DIR$/half_life_AS_maior_3h_preparada.txt" />
         <option value="$PROJECT_DIR$/preparar_para_buscar_seqs.py" />
@@ -164,14 +115,20 @@
         <option value="$PROJECT_DIR$/merge_menor_maior_3horas.txt" />
         <option value="$PROJECT_DIR$/Projeto/arranjas_seqs.py" />
         <option value="$PROJECT_DIR$/Projeto/sequencias_encontradas_half_life.txt" />
+        <option value="$PROJECT_DIR$/Projeto/preparada_para_half_Life_busca.txt" />
+        <option value="$PROJECT_DIR$/Projeto/arranjas_seqs_adicionar_grupo_meia_vida.py" />
+        <option value="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_11_cluster.hmm" />
+        <option value="$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_16_cluster.hmm" />
+        <option value="$PROJECT_DIR$/Projeto/grupos_separacao_em_horas_sequencias_encontradas_half_life.txt" />
+        <option value="$PROJECT_DIR$/fujita_motif.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="39" />
-    <option name="width" value="1920" />
-    <option name="height" value="970" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -227,63 +184,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Projeto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="motif_fider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Projeto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="processar_clusters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dir.diff.last.used.directory" value="$PROJECT_DIR$" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -292,6 +207,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto" />
       <recent name="$PROJECT_DIR$/Projeto" />
       <recent name="$PROJECT_DIR$" />
       <recent name="D:\Users\lucas Ferreira\PycharmProjects\motif_fider" />
@@ -303,45 +219,7 @@
       <recent name="D:\Users\lucas Ferreira\PycharmProjects\motif_fider\Projeto\processar_clusters" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.arranjas_seqs">
-    <configuration default="false" name="fujita_motif" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="motif_fider" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fujita_motif.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="intersect_cluster_anotacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="motif_fider" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intersect_cluster_anotacao.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.fujita_motif">
     <configuration default="false" name="preparar_para_buscar_seqs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -395,6 +273,42 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="arranjas_seqs_adicionar_grupo_meia_vida" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projeto/arranjas_seqs_adicionar_grupo_meia_vida.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fujita_motif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="motif_fider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fujita_motif.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -562,19 +476,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.testemotif" />
       <item index="1" class="java.lang.String" itemvalue="Python.extract_seq" />
-      <item index="2" class="java.lang.String" itemvalue="Python.fujita_motif" />
-      <item index="3" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao" />
-      <item index="4" class="java.lang.String" itemvalue="Python.preparar_para_buscar_seqs" />
-      <item index="5" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao_para_apenas_um_grupo" />
-      <item index="6" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.preparar_para_buscar_seqs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao_para_apenas_um_grupo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
+      <item index="5" class="java.lang.String" itemvalue="Python.arranjas_seqs_adicionar_grupo_meia_vida" />
+      <item index="6" class="java.lang.String" itemvalue="Python.fujita_motif" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao_para_apenas_um_grupo" />
-        <item index="2" class="java.lang.String" itemvalue="Python.preparar_para_buscar_seqs" />
-        <item index="3" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao" />
-        <item index="4" class="java.lang.String" itemvalue="Python.fujita_motif" />
+        <item index="0" class="java.lang.String" itemvalue="Python.fujita_motif" />
+        <item index="1" class="java.lang.String" itemvalue="Python.arranjas_seqs_adicionar_grupo_meia_vida" />
+        <item index="2" class="java.lang.String" itemvalue="Python.arranjas_seqs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.intersect_cluster_anotacao_para_apenas_um_grupo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.preparar_para_buscar_seqs" />
       </list>
     </recent_temporary>
   </component>
@@ -672,22 +586,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="39" width="1920" height="970" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.6514286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.6515151" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4822857" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34857142" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34848484" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14285715" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -710,9 +624,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2484375" sideWeight="0.62628573" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3737143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -742,117 +656,93 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/half_life_AS_maior_3h_preparada.txt">
+    <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs_adicionar_grupo_meia_vida.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="495" column="25" selection-start="12913" selection-end="12913" vertical-scroll-proportion="0.0" vertical-offset="7018" max-vertical-offset="7515">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_0_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_1_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_2_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_3_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_4_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_6_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_7_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="714" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_8_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultados/varios_grupos_analisando_half_life_5_cluster.hmm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.3704414" vertical-offset="714" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PFMDir_original/782_8497264.pfm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PFMDir_original/951_12324455.pfm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="898" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PFMDir_original/matrix_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="42" selection-start="2840" selection-end="2841" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="1258">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half_life_AS_menor_3h_preparada.txt">
+    <entry file="file://$PROJECT_DIR$/Projeto/backup_grupos_separacao_em_horas_sequencias_encontradas_half_life.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="200" column="21" selection-start="5300" selection-end="5300" vertical-scroll-proportion="0.0" vertical-offset="2571" max-vertical-offset="3090">
+        <state line="0" column="0" selection-start="0" selection-end="500695" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8483">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half_life_3h__2_tempos.txt">
+    <entry file="file://$PROJECT_DIR$/Projeto/grupos_separacao_em_horas_sequencias_encontradas_half_life.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="34" selection-start="0" selection-end="452019" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="7500">
+        <state line="398" column="0" selection-start="408527" selection-end="408527" vertical-scroll-proportion="0.0" vertical-offset="5519" max-vertical-offset="8483">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/half_life_AS_menor_3h__2_tempos.txt">
+    <entry file="file://$PROJECT_DIR$/fujita_motif.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="200" column="8" selection-start="70728" selection-end="102400" vertical-scroll-proportion="0.0" vertical-offset="2599" max-vertical-offset="3105">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1142" column="0" selection-start="47510" selection-end="47510" vertical-scroll-proportion="0.33333334" vertical-offset="16006" max-vertical-offset="22080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/merge_menor_maior_3horas.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="9620" selection-end="9620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intersect_cluster_anotacao_para_apenas_um_grupo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="56" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+        <state line="8" column="44" selection-start="379" selection-end="379" vertical-scroll-proportion="0.11358575" vertical-offset="34" max-vertical-offset="1445">
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="519">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/Spearman.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/arranjas_seqs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="363" selection-end="363" vertical-scroll-proportion="-2.9411764" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/adiciona_sequencia_metrica.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="44" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/out_my.groups_hr_ids.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10247" column="19" selection-start="163601" selection-end="163601" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153795">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/processar_clusters/sequencias_encontradas.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="1441" selection-end="1442" vertical-scroll-proportion="-1.2" vertical-offset="0" max-vertical-offset="125685">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/sequencias_encontradas_half_life.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="498" column="1" selection-start="503016" selection-end="503016" vertical-scroll-proportion="-96.17647" vertical-offset="2565" max-vertical-offset="7575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projeto/grupos_para_add_seq_half_life.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="336" selection-start="27708" selection-end="27708" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7560">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/half_life_AS_maior 3h.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="496" column="0" selection-start="154386" selection-end="154398" vertical-scroll-proportion="0.7924901" vertical-offset="7039" max-vertical-offset="7545">
-          <folding />
         </state>
       </provider>
     </entry>

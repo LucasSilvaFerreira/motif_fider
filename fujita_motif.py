@@ -1,10 +1,10 @@
 import simplehmm
 import math
 from motif_find import motif_finder
-nome_saida='analisando_half_life'
+nome_saida='merge_grupos_01_23_45_678_varios_grupos_analisando_half_life'
 teste = motif_finder('PFMDir_original/')
 teste.set_pontas_porcentagem(15)
-dados = open('Projeto/preparada_para_half_Life_busca.txt', 'r').read()
+dados = open('Projeto\grupos_separacao_em_horas_sequencias_encontradas_half_life.txt', 'r').read()
 vetor_maior_valor = []
 for search_maior_valor in dados.split('\n'):
     capturado = int(search_maior_valor.split(';')[2]) #numero de clusters
