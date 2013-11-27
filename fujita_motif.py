@@ -73,7 +73,9 @@ for loop_cluster in range(0,numero_clusters+1):
     #print test_hmm.check_prob()
     test_hmm.train(treinar, smoothing='absdiscount')
     #print test_hmm.check_prob()
-    print test_hmm.print_hmm()
+    #print test_hmm.print_hmm()
     if nome_saida =='':
         print ('De um nome para os arquivos de saida')
     test_hmm.save_hmm('resultados/'+nome_saida+'_'+str(loop_cluster)+"_cluster.hmm")
+    abrindo=open('resultados/'+nome_saida+'_'+str(loop_cluster)+"_cluster.hmm",'r').read()
+    print abrindo
